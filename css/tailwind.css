@@ -1,0 +1,7 @@
+/* ./your-css-folder/styles.css */
+@tailwind base;
+@tailwind components;
+.hero {
+  z-index: -10;
+}
+@tailwind utilities;
